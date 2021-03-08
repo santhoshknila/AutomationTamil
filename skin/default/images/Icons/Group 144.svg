@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 21 21.297">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fbfeff;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+    </style>
+    <clipPath id="clip-path">
+      <path id="Path_952" data-name="Path 952" class="cls-1" d="M0-800H21v21.3H0Z" transform="translate(0 799.997)"/>
+    </clipPath>
+  </defs>
+  <g id="Group_144" data-name="Group 144" transform="translate(0 799.997)">
+    <g id="Group_133" data-name="Group 133" class="cls-2" transform="translate(0 -799.997)">
+      <g id="Group_131" data-name="Group 131" transform="translate(1.135 0.767)">
+        <path id="Path_950" data-name="Path 950" class="cls-1" d="M0-323.4H2.168a.323.323,0,0,1,.323.323v10.717H6.5v-6.57a.323.323,0,0,1,.323-.323H11.9a.323.323,0,0,1,.323.323v6.57h4.012v-10.717a.323.323,0,0,1,.323-.323h2.17l-9.367-8.845Z" transform="translate(0 332.242)"/>
+      </g>
+      <g id="Group_132" data-name="Group 132" transform="translate(0)">
+        <path id="Path_951" data-name="Path 951" class="cls-1" d="M-647.008-351.428a.323.323,0,0,0-.323.323v10.717h-4.011v-6.57a.323.323,0,0,0-.323-.323h-5.077a.323.323,0,0,0-.323.323v6.57h-4.013v-10.717a.323.323,0,0,0-.323-.323h-2.169l9.364-8.845,9.367,8.845Zm-6.974-9.523a.323.323,0,0,0-.444,0l-10.176,9.611a.324.324,0,0,0-.078.354.323.323,0,0,0,.3.2h2.658v10.717a.323.323,0,0,0,.323.323h4.658a.323.323,0,0,0,.323-.323v-6.57h4.432v6.57a.323.323,0,0,0,.323.323h4.657a.323.323,0,0,0,.323-.323v-10.717h2.659a.323.323,0,0,0,.3-.2.325.325,0,0,0-.078-.354Z" transform="translate(664.703 361.039)"/>
+      </g>
+    </g>
+  </g>
+</svg>
